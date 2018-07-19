@@ -1,0 +1,4 @@
+---- LF_AwakeUp Matches (3 in 3 files) ----
+Hw_gpio.c (src\sx1276):	        LF_AwakeUp();
+LF_AS3932.c (src\lf):void  LF_AwakeUp(void)
+LF_AS3932.h (src\lf):extern void LF_AwakeUp(void);
